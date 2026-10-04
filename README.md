@@ -1,6 +1,6 @@
 # Arsany Milad
 
-### I get dropped into a customer's team and Optimize their daily work.
+### I get dropped into a customer's team and Optimize their daily operations.
 
 Senior software engineer, Not the "give me a ticket and leave me alone" kind. I sit with the people who use the software, make the product call, build it, demo it, and stay until it works in production.
 
